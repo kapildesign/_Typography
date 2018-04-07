@@ -17,15 +17,15 @@
     "do_objectID": "0684242A-293E-4A83-8F77-B210F7CE6C0D",
     "height": 314,
     "width": 247,
-    "x": -1570,
-    "y": -2145
+    "x": -2365,
+    "y": -2108
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
