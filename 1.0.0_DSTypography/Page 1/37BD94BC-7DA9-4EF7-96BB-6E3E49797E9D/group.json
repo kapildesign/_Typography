@@ -15,10 +15,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0684242A-293E-4A83-8F77-B210F7CE6C0D",
-    "height": 396,
-    "width": 734,
-    "x": -2402,
-    "y": -2166
+    "height": 486,
+    "width": 800,
+    "x": -3868,
+    "y": -3251
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -74,6 +74,10 @@
     {
       "class": "text",
       "id": "9F368CB8-28F1-4020-92B7-07ED41C2164E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1C06212-0E7C-41DA-BBB9-A12486986538"
     }
   ],
   "name": "Footnote",
