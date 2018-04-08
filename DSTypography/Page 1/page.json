@@ -1,0 +1,88 @@
+{
+  "_class": "page",
+  "do_objectID": "c83d8fe0-3aa6-11e8-8c3c-c1038097b3e6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -333,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "32E7AA3B-B709-4F0D-B0D8-13371BB7252E"
+    },
+    {
+      "class": "group",
+      "id": "67689998-3199-4CC7-A7AB-41B1CAC32860"
+    },
+    {
+      "class": "group",
+      "id": "225431FA-B9F7-4811-885F-80122B4A17BB"
+    },
+    {
+      "class": "group",
+      "id": "094ED078-38D9-4919-B044-6A2CC47A086F"
+    },
+    {
+      "class": "group",
+      "id": "0C6BA177-301C-4950-AD1E-7EDA90BB2262"
+    },
+    {
+      "class": "group",
+      "id": "68676615-7745-424E-BE0E-BE38BB126EBE"
+    },
+    {
+      "class": "group",
+      "id": "37BD94BC-7DA9-4EF7-96BB-6E3E49797E9D"
+    }
+  ],
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.nivritti.diya": {
+      "screens": [
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -265,
+    "guides": [
+    ]
+  }
+}
