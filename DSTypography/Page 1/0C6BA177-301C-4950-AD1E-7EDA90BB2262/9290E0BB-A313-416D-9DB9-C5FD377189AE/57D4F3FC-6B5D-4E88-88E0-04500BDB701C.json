@@ -1,9 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "0C82DB42-FD41-4FE7-8358-48D32E52EC63",
+  "do_objectID": "57D4F3FC-6B5D-4E88-88E0-04500BDB701C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EE9038E1-B3B8-4DE5-94F7-2E7C49D3DFEA",
+    "do_objectID": "8A94C1D2-AEEB-4CF9-BC25-AEB53F434336",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,11 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2B5E8E98-D923-49E8-BB93-3239A9DED343",
-    "height": 473.0000000000002,
-    "width": 900,
+    "do_objectID": "EDCD9DC8-5800-4311-9D2E-48DF571A7A3C",
+    "height": 1025,
+    "width": 1100,
     "x": 0,
-    "y": 817
+    "y": 132
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "_/color/black",
-  "nameIsFixed": false,
+  "name": "_/color/white",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {
@@ -39,12 +39,34 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "1AD05FEC-572E-483C-BB09-3378370E2677",
+    "do_objectID": "BB508BC0-871B-4773-AC7D-2AA0E93969EC",
     "endDecorationType": 0,
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": -1,
+        "spread": 0
+      }
+    ],
     "startDecorationType": 0
   },
-  "symbolID": "D60CFBCA-E3F8-47A8-AC9E-DD9B90D97602",
+  "symbolID": "BCC94A5A-537C-4312-859D-F323FB7331E3",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

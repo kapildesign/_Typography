@@ -15,25 +15,25 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F63BAACA-544C-4E94-A664-742F855F8D9D",
-    "height": 554,
-    "width": 242,
-    "x": -888,
-    "y": -2145
+    "height": 1005,
+    "width": 1100,
+    "x": -1903,
+    "y": -3251
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "A0051E98-971E-46FB-AB36-C43F3569BEDF"
+      "class": "group",
+      "id": "9290E0BB-A313-416D-9DB9-C5FD377189AE"
     },
     {
       "class": "group",
-      "id": "3EE3503A-CD80-4D59-B5F1-C46596FCB3CC"
+      "id": "3C0F2DED-43B3-4E01-8286-5009CD5C9DA2"
     },
     {
       "class": "group",
@@ -45,7 +45,7 @@
     },
     {
       "class": "group",
-      "id": "3C0F2DED-43B3-4E01-8286-5009CD5C9DA2"
+      "id": "3EE3503A-CD80-4D59-B5F1-C46596FCB3CC"
     }
   ],
   "name": "Title",

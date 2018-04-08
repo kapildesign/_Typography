@@ -38,6 +38,10 @@
     {
       "class": "symbolInstance",
       "id": "0C82DB42-FD41-4FE7-8358-48D32E52EC63"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC191C26-1A9C-4CD8-96CF-C05B20615F67"
     }
   ],
   "name": "bound",
